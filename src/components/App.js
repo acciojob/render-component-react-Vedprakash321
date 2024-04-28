@@ -4,11 +4,11 @@ import React from 'react';
 const App = () => {
 
   return (
-    <h1>
+    <div>
      
-      <p>I am learning React. My life is getting better.</p>
-      
-    </h1>
+      <p id="main">I am learning React. My life is getting better.</p>
+
+    </div>
   );
 };
 export default App;
